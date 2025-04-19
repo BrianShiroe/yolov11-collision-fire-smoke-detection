@@ -1,0 +1,9 @@
+path: C:/Users/brian/Desktop/april-2025-model-training-main/
+
+train: dataset-main/train
+val: dataset-main/valid
+test: dataset-main/test
+
+nc: 5  # Number of classes
+
+names: ['collision', 'fire', 'smoke', 'flood', 'landslide']
