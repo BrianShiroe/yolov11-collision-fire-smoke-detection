@@ -1,4 +1,4 @@
-# 🚨 Accident & Disaster Detection Model using YOLOv11
+# 🚨 Collision, Fire, and Smoke Detection Model using YOLOv11
 This repository contains object detection models trained to detect **accidents** and **natural disasters** using YOLOv11. The system is part of a broader initiative to improve real-time disaster and accident response through automated monitoring of CCTV feeds. The model training includes detection for car collision, fire, and smoke.
 
 ### 🧠 Model Descriptions
@@ -18,3 +18,9 @@ Total data: 6252
 🚗 Collision: 12500
 🔥 Fire: 12500
 🧮 Overall Total: 25000 images
+
+## 🎥 Detection Demo
+<p align="center">
+  <img src="1-collision-demo.gif" width="100%"/><br><br>
+  <img src="2-fire-demo.gif" width="100%"/>
+</p>
