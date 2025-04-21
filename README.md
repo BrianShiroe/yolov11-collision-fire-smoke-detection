@@ -19,6 +19,14 @@ Total data: 6252
 🔥 Fire: 12500
 🧮 Overall Total: 25000 images
 
+| Metric         | Value               |
+|----------------|---------------------|
+| Precision (B)  | 0.6225728016728798  |
+| Recall (B)     | 0.592293396436181   |
+| mAP50 (B)      | 0.587249281543145   |
+| mAP50-95 (B)   | 0.4040384620980947  |
+| Fitness        | 0.4217960240991292  |
+
 ## 🎥 Detection Demo
 <p align="center">
   <img src="1-collision-demo.gif" width="100%"/><br><br>
